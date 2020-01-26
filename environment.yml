@@ -1,0 +1,5 @@
+name: hello
+channels:
+  - conda-forge
+dependencies:
+  - ipyleaflet
